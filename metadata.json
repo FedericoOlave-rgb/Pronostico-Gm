@@ -1,0 +1,5 @@
+{
+  "name": "Gconomic Gm Forecaster",
+  "description": "Advanced energy tariff forecasting application for the Colombian market. Implements a hybrid methodology combining Ridge Regression Machine Learning models with expert consensus and statistical smoothing.",
+  "requestFramePermissions": []
+}
